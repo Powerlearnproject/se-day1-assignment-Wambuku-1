@@ -1,12 +1,17 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18386027&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+**Sofware engineering** is a branch of computer science that used to develop, test and maintain software.
+it is important in the technology industry in that it makes applications reliable, it allows for efficiency, and also protects applications from external attacks. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+mastering complexity
+mastering process
+mastering machine
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
